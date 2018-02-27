@@ -41,6 +41,7 @@ public class Cases extends javax.swing.JFrame {
         jButton2 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        setPreferredSize(new java.awt.Dimension(1020, 720));
 
         jPanel1.setBackground(new java.awt.Color(0, 51, 153));
 
